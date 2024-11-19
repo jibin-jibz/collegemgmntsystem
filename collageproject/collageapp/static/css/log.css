@@ -1,0 +1,14 @@
+
+.l {
+    /* border: 2px solid #000; Black */
+
+    /* padding: 20px; */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    max-width: 300px;
+    margin: 0 auto; /* Center the form */
+    /* background-color: #fff; White background */
+}
+
+
+
